@@ -2,4 +2,4 @@
 
 Meu nome é Cauan Sant
 
-- Estou estudando no Alura
+- Estou Estudando no Alura
